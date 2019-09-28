@@ -1,0 +1,21 @@
+{
+  "name": "resume-sahil",
+  "version": "1.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "resume"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "inquirer": "^6.5.1"
+  },
+  "bin": {
+    "resume-sahil": "./index.js"
+  }
+}
