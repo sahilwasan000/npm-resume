@@ -1,0 +1,63 @@
+{
+	"Education": [
+		"B.Tech - Cumulative GPA - 9.2",
+		"12th   - Scored 90%",
+		"10th   - Scored 90%"
+	],
+
+	"Past Experience": [
+		"04TH JUNE, 2019 – 31ST JULY,2019",
+		"BACKEND DEVELOPER, POLICY BAZAAR WEB AGGREGATOR PVT.LTD.",
+		"I WAS APPOINTED AS A BACKEND INTERN WITH THE TECHNICAL TEAM.WE BASICALLY HAD THE TASK TO IMPLEMENT NEW FEATURES ON THE SITE ALONGSIDE",
+		"IMPROVING THE LATEST TECHNOLOGY.WE ALSO WORKED ON THE CHATBOT FUNCTIONALITIES",
+    "-----------------------------------------------------------------------------------------------------------------------------------------------------",
+		"15TH DECEMBER, 2018 – 15TH FEBRUARY,2019",
+		"TECHNICAL HEAD, PRO INDIA RECYCLING.",
+		"PRO INDIA RECYCLING IS A STARTUP THAT DEALS WITH WASTE MANAGEMENT.BY USING THE POWER OF DISCARDED WASTE, IT BASICALLY TRIES TO BRING IT TO BACK USAGE.",
+		"I WORKED AS A TECHNICAL HEAD FOR THEM BY MAINTAINING THEIR CURRENT WEBSITE AND HANDLING MS - OFFICE WORK."
+	],
+
+	"Skill Stack": [
+		"****************Development**************** :",
+		"JavaScript(ES6/7)",
+		"Node.js",
+		"Express",
+		"MongoDB",
+		"Mongoose",
+		"jQuery",
+		"HTML",
+		"CSS",
+
+		"***********Programming and Tools*********** :",
+		"C",
+		"C++",
+		"DS/Algo",
+		"Linux(Ubuntu/Kali)",
+		"Atom/VSCode",
+		"Postman"
+	],
+
+	"Social Activities": [
+		"Technical Team member of E-cell of MSIT.",
+		"Member of Prakriti (Cultural Club of Msit).",
+		"Selected for the Phase-1 of Google Udacity Scholarship for Frontend Development.",
+		"Event Head of ENVA. (Cultural Annual fest of MSIT).",
+		"Volunteered for NSS, organized road safety event in college.",
+		"Volunteer for the Blood Donation Camp organized by Rotaract Club, Delhi."
+	],
+
+	"Profiles": [
+		"LinkedIn - https://www.linkedin.com/in/sahil-wasan-b51908151/",
+		"GitHub - https://github.com/sahilwasan000"
+	],
+
+	"Projects": [
+		"Node-Chat-App - https://secret-spire-75396.herokuapp.com/",
+		"To-do API- https://github.com/sahilwasan000/Todo-Api",
+		"Weather App",
+		"Blogging App"
+	],
+
+	"Connect With Me": ["+91 9953655095",
+     "sahilwasan000@gmail.com"]
+}
